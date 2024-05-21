@@ -22,3 +22,9 @@ The academic transcripts of my BEng grades are here: [Yuhong Zhou's Curriculum V
 Research Interests
 ------
   - Distributed System
+  - Cooperative Control
+  - Multiagent System
+
+Publications
+------
+**Y. Zhou**, Y. Chen, L. Zhang and C. Pan, "Distributed Finite-Time Prescribed Performance for Multiple Unmanned Aerial Vehicle With Time-Varying External Disturbance," in IEEE Internet of Things Journal, vol. 11, no. 9, pp. 16969-16980, 1 May1, 2024, doi: 10.1109/JIOT.2024.3367172. [Paper](https://ieeexplore.ieee.org/document/10439983/)
