@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : 
+url                      : https://rainbowzhou17.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
 
@@ -22,10 +22,9 @@ repository               :
 author:
   # Biographic information
   avatar           : "profile.png"
-  
   name             : "Yuhong Zhou"
   pronouns         : # example: "she/her"  
-  bio              : 
+  bio              : # 
   location         : "Chengdu, Sichuan, China"
   employer         : 
   uri              : # URL
