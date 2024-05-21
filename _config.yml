@@ -22,6 +22,7 @@ repository               :
 author:
   # Biographic information
   avatar           : "profile.png"
+  
   name             : "Yuhong Zhou"
   pronouns         : # example: "she/her"  
   bio              : 
