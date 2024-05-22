@@ -21,12 +21,12 @@ The certificate of my BEng is here: [Yuhong Zhou's Certificate](.../assets/Yuhon
 
 Research Interests
 ------
+I am interested in researching different control theories to achieve the control of dynamic systems (linear and nonlinear), including multiagents and robotics. I am also interested in exploring methods to optimize control performance. My current focus is primarily on theoretical research. In the future, I want to conduct research that combines basic theory with practical applications.
+
   - Distributed System
   - Cooperative Control
   - Multiagent System
   - Control Theory
-
-I am interested in researching different control theories to achieve the control of dynamic systems (linear and nonlinear), including multiagents and robotics. I am also interested in exploring methods to optimize control performance. My current focus is primarily on theoretical research. In the future, I want to bring the theoretical work to practical applications.
 
 Publications
 ------
