@@ -25,6 +25,7 @@ Research Interests
   - Cooperative Control
   - Multiagent System
   - Control Theory
+
 I am interested in researching different control theories to achieve the control of dynamic systems (linear and nonlinear), including multiagents and robotics. I am also interested in exploring methods to optimize control performance. My current focus is primarily on theoretical research. In the future, I want to bring the theoretical work to practical applications.
 
 Publications
