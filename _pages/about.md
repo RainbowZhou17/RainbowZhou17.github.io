@@ -36,4 +36,4 @@ Publications
 ------
 **Y. Zhou**, Y. Chen, L. Zhang and C. Pan, "Distributed Finite-Time Prescribed Performance for Multiple Unmanned Aerial Vehicle With Time-Varying External Disturbance," in IEEE Internet of Things Journal, vol. 11, no. 9, pp. 16969-16980, 1 May1, 2024, doi: 10.1109/JIOT.2024.3367172. [Paper](https://ieeexplore.ieee.org/document/10439983/)
 
-**Y. Zhou**, Y. Chen and L. Zhang, "Distributed Prescribed Performance based on Adaptive Neural Network Strategy for Multi-UAVs under Cyber-attacks,". (Submitted)
+**Y. Zhou**, Y. Chen and L. Zhang, "Distributed Prescribed Performance based on Adaptive Neural Network Strategy for Multi-UAVs under Cyber-attacks,". (Under review)
