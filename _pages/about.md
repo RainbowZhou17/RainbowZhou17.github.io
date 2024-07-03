@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ------
-I am currently pursuing an MEng degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. I received a BEng degree at [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
+I am currently pursuing an MEng degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. I will graduate in early July 2025.
+I received a BEng degree at [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
 The specific information including my CV, academic transcripts and graduation certificate is given below:
 
 
