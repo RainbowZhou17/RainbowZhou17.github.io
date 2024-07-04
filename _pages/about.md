@@ -15,15 +15,15 @@ More detailed information about my educational background and certifications can
 
 My CV file: [Yuhong Zhou's Curriculum Vitae](https://RainbowZhou17.github.io/files/YuhongZhou_CV.pdf)
 
-The academic transcripts of my MEng are here: [Yuhong Zhou's MEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_MEng_Grades.pdf)
+The academic transcripts of graduated education: [Yuhong Zhou's MEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_MEng_Grades.pdf)
 
-The academic transcripts of my BEng are here: [Yuhong Zhou's BEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_BEng_Grades.pdf)
+The academic transcripts of bachelor education: [Yuhong Zhou's BEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_BEng_Grades.pdf)
 
-The certificate of my BEng is here: [Yuhong Zhou's Certificate](https://RainbowZhou17.github.io/files/YuhongZhou_Certificate.pdf)
+The certificate file: [Yuhong Zhou's Certificate](https://RainbowZhou17.github.io/files/YuhongZhou_Certificate.pdf)
 
 Research Interests
 ------
-I am interested in researching different control theories and various dynamic systems, including multi-agents and robotics. I am also interested in exploring methods to optimize control performance. Currently, I mainly focus on theoretical research. In the future, I want to extend my research to both theoretical research and practical applications.
+I am interested in researching different control theories and various dynamic systems, including multi-agents, robotics, and intelligent control. I am also interested in developing methods to optimize the control performance. Currently, I am mainly focusing on theoretical research. I am looking forward to extending my research to more practical fields in future studies.
 
   - Distributed System
   - Cooperative Control
