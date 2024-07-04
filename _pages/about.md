@@ -8,14 +8,12 @@ redirect_from:
 ---
 
 ------
-I am currently pursuing an MEng degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. I will graduate in early July 2025.
+I am currently pursuing an MEng degree at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. My MEng degree will be received in early July 2025.
 
-I have received a BEng degree at [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
-The details including my CV, academic transcripts, and graduation certificate are given below:
+My BEng degree has been obtained at [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
+More detailed information about my educational background and certifications can be found in the links below:
 
-
-
-The details of my CV are here: [Yuhong Zhou's Curriculum Vitae](https://RainbowZhou17.github.io/files/YuhongZhou_CV.pdf)
+My CV file: [Yuhong Zhou's Curriculum Vitae](https://RainbowZhou17.github.io/files/YuhongZhou_CV.pdf)
 
 The academic transcripts of my MEng are here: [Yuhong Zhou's MEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_MEng_Grades.pdf)
 
