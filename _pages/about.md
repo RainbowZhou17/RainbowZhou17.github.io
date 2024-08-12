@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Yuhong Zhou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+About Me
 ------
 I am currently pursuing an MEng degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. My MEng degree will be received in early July 2025.
 
