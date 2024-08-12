@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuhong Zhou"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
