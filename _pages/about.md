@@ -28,7 +28,7 @@ I am interested in researching different control theories and various dynamic sy
 
   - Distributed System
   - Consensus Control
-  - Multiagent System
+  - Multi-agent System
   - Intelligent Control
 
 Publications
