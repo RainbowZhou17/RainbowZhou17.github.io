@@ -27,9 +27,9 @@ Research Interests
 I am interested in researching different control theories and various dynamic systems, including multi-agent system, robotics, and intelligent control. I am also interested in developing methods to optimize the control performance.
 
   - Distributed System
-  - Consensus Control
-  - Multi-agent System
   - Intelligent Control
+  - Multi-agent System
+  - Robotics
 
 Publications
 ------
