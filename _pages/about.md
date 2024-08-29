@@ -24,11 +24,12 @@ The certificate file: [Yuhong Zhou's Certificate](https://RainbowZhou17.github.i
 
 Research Interests
 ------
-I am interested in researching different control methods and various dynamic systems, including intelligent control, multi-agent system and robotics. I am also interested in developing methods to optimize the control performance.
+I am interested in researching different control methods and various dynamic systems, including intelligent control, cooperative control, multi-agent system and robotics. I am also interested in exploring methods to optimize the control performance.
 
   - Distributed System
-  - Intelligent Control
   - Multi-agent System
+  - Intelligent Control
+  - Cooperative Control
   - Robotics
 
 Publications
