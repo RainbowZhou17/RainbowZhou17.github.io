@@ -9,27 +9,25 @@ redirect_from:
 
 About Me
 ------
-I am currently pursuing an MEng degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. My MEng degree will be received in early July 2025.
+I am currently pursuing a master degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. My MEng degree will be received in early July 2025.
 
-My BEng degree in Mechanical Engineering has been obtained at [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
+I received my bachelor degree in Mechanical Engineering from [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
 More detailed information about my educational background and certifications can be found in the links below:
 
 My CV file: [Yuhong Zhou's Curriculum Vitae](https://RainbowZhou17.github.io/files/YuhongZhou_CV.pdf)
 
-The academic transcripts of graduated education: [Yuhong Zhou's MEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_MEng_Grades.pdf)
+The academic transcripts of master education: [Yuhong Zhou's MEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_MEng_Grades.pdf)
 
 The academic transcripts of bachelor education: [Yuhong Zhou's BEng Grades](https://RainbowZhou17.github.io/files/YuhongZhou_BEng_Grades.pdf)
 
-The certificate file: [Yuhong Zhou's Certificate](https://RainbowZhou17.github.io/files/YuhongZhou_Certificate.pdf)
+The certificate file of my bachelor degree from University of Leeds: [Yuhong Zhou's Certificate](https://RainbowZhou17.github.io/files/YuhongZhou_Certificate.pdf)
 
 Research Interests
 ------
 I am interested in researching different control methods and various dynamic systems, including intelligent control, cooperative control, multi-agent system and robotics. I am also interested in exploring methods to optimize the control performance.
 
-  - Distributed System
-  - Multi-agent System
-  - Intelligent Control
-  - Cooperative Control
+  - Distributed and Multi-agent System
+  - Intelligent and Cooperative Control
   - Robotics
 
 Publications
