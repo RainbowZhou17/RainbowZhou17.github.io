@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ------
-I am currently pursuing a master degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. Yong Chen. My MEng degree will be received in early July 2025.
+I am currently pursuing a master degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) and working at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. [Yong Chen](https://www.auto.uestc.edu.cn/info/1152/4311.htm). My MEng degree will be received in early July 2025.
 
 I received my bachelor degree in Mechanical Engineering from [SWJTU-LEEDS School](https://leeds.swjtu.edu.cn/) in [Southwest Jiaotong University](https://www.swjtu.edu.cn/) with a first-class degree in 2022.
 More detailed information about my educational background and certifications can be found in the links below:
