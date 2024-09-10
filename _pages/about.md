@@ -24,7 +24,7 @@ The certificate file of my bachelor degree from University of Leeds: [Yuhong Zho
 
 Research Interests
 ------
-I am interested in researching different control methods and various dynamic systems, including intelligent control, cooperative control, multi-agent system and robotics. I am also interested in exploring methods to optimize the control performance.
+I am interested in researching different control methods and various dynamic systems, including intelligent control, cooperative control, multi-agent system and robotics. I am also interested in exploring optimization methods.
 
   - Distributed and Multi-agent System
   - Intelligent and Cooperative Control
