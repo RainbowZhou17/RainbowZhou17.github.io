@@ -28,6 +28,7 @@ I am interested in researching different control methods and various dynamic sys
 
   - Distributed and Multi-agent System
   - Intelligent and Cooperative Control
+  - Cyber-physical Systems
   - Robotics
 
 Publications
