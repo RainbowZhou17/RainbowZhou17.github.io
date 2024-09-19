@@ -24,7 +24,7 @@ The certificate file of my bachelor's degree from the University of Leeds: [Yuho
 
 Research Interests
 ------
-I am interested in researching different control methods and dynamic systems, including intelligent and cooperative control, multi-agent and autonomous systems, robotics. I am also interested in exploring learning and optimization methods.
+I am interested in researching different control methods and dynamic systems, including intelligent and cooperative control, multi-agent and autonomous systems, and robotics. I am also interested in exploring learning and optimization methods.
 
   - Distributed and Multi-agent System
   - Intelligent and Cooperative Control
