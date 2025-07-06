@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Yuhong Zhou"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -25,7 +25,7 @@ author:
   name             : "Yuhong Zhou"
   pronouns         : # example: "she/her"  
   bio              : " " 
-  location         : "Chengdu, Sichuan, China"
+  location         : "Selly Oak, Birmingham, UK"
   employer         : 
   uri              : # URL
   email            : "rainbowz17@163.com" 
