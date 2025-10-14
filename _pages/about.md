@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ------
-I am currently pursuing a PhD degree at [University of Birmingham](https://www.birmingham.ac.uk/). I am a member of [CASE Automotive Research Group](https://www.birmingham.ac.uk/research/activity/mechanical-engineering/case-centre/vehicle-technology/case-v) under the supervision of Prof.  [Ji Li](https://www.birmingham.ac.uk/staff/profiles/mechanical/ji-li) and Prof.[Hongming Xu](https://www.birmingham.ac.uk/staff/profiles/mechanical/xu-hongming).
+I am currently pursuing a PhD degree at [University of Birmingham](https://www.birmingham.ac.uk/). I am a member of [CASE Automotive Research Group](https://www.birmingham.ac.uk/research/activity/mechanical-engineering/case-centre/vehicle-technology/case-v) under the supervision of Prof. [Ji Li](https://www.birmingham.ac.uk/staff/profiles/mechanical/ji-li) and Prof. [Hongming Xu](https://www.birmingham.ac.uk/staff/profiles/mechanical/xu-hongming).
 
 I received my Bachelor's degree in Mechanical Engineering from the [SWJTU Joint School with the University of Leeds](https://leeds.swjtu.edu.cn/) at [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2022, achieving a first-class degree. I worked at [Power Electronics and Advanced Control Center](https://www.auto.uestc.edu.cn/info/1032/2106.htm) under the supervision of Prof. [Yong Chen](https://www.auto.uestc.edu.cn/info/1152/4311.htm). And I also received my Master's degree in Electronic Information at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) in 2025. 
 
