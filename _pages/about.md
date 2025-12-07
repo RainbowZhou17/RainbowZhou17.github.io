@@ -29,4 +29,4 @@ Publications
 
 **Y. Zhou**, Y. Chen and L. Zhang, "Distributed Prescribe Performance Control Based on Adaptive Neural Network Strategy for Multi-AAVs Under Cyber-Attacks," in IEEE Internet of Things Journal, vol. 12, no. 8, pp. 9905-9916, 15 April 15 2025, doi: 10.1109/JIOT.2024.3510546. [Link](https://ieeexplore.ieee.org/document/10772425)
 
-**Y. Zhou**, Y. Chen and L. Zhang, "Distributed Prescribed Performance Control for MUAVS under Cyber-Attacks and Disturbances via Adaptive NN and Disturbance Observer" (Submitted)
+**Y. Zhou**, Y. Chen and L. Zhang, "Distributed Prescribed Performance Control for MUAVS under Cyber-Attacks and Disturbances via Adaptive NN and Disturbance Observer" (Major Review)
